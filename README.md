@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soniya</h1>
 <h3 align="center">A passionate frontend developer and UI/UX designer</h3>
 
-- 💬 Ask me about **UI/UX**
+- 💬 Ask me about **UI/UX, Java**
 
 - 📫 How to reach me **sonia.pandey002@gmail.com**
 
