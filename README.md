@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Soniya</h1>
 <h3 align="center">Cybersecurity enthusiast and Java Developer with a foundation in Linux, networking, and security fundamentals, interested in defensive security.</h3>
 
-- 💬 Ask me about **UI/UX, Java**
+
 
 - 📫 How to reach me **sonia.pandey002@gmail.com**
 
